@@ -69,9 +69,10 @@
  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-component" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" alt="node.js"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" alt="mongodb"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>&nbsp;&nbsp;
+<!--  <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" alt="node.js"/>&nbsp;&nbsp; -->
+<!--  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>&nbsp;&nbsp; -->
+<!--  <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" alt="mongodb"/>&nbsp;&nbsp; -->
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css"/>&nbsp;&nbsp;
  <br/>
  
@@ -90,9 +91,9 @@
   <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />&nbsp;&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp; -->
   
 
 </p>
@@ -100,7 +101,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SaurabhSinghRbz}/count.svg" alt="SaurabhSinghRbz :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Rajneesh1107}/count.svg" alt="Rajneesh1107" :: Visitor's Count" /></p>
 
 <hr>
 
@@ -111,13 +112,13 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSinghRbz&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajneesh1107&theme=chartreuse-dark"  />
 </p>
  
 <p>
-<a href="https://github.com/SaurabhSinghRbz"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabhSinghRbz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/Rajneesh1107"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajneesh1107&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rajneesh1107&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -125,15 +126,15 @@
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/SaurabhSinghRbz"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaurabhSinghRbz&theme=dracula" />
+<a href="https://github.com/Rajneesh1107"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajneesh1107&theme=dracula" />
 </span></a> </p>
 
  <br/>
 <!-- GitHub Cup's   -->
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=SaurabhSinghRbz&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Rajneesh1107&theme=vue" alt=""/> </p>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaurabhSinghRbz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rajneesh1107&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <hr clear="both">
 
