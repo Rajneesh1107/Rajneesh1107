@@ -18,6 +18,7 @@
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : _I Always try to learn something new and then sleep till it store in the brain_ 😎<br>
+- 👨‍💻 All of my projects are available at https://rajneesh1107.github.io<br>
 
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
@@ -36,20 +37,9 @@
   <a href="https://www.linkedin.com/in/rajneesh-yadav-012160258/">
     <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <!-- <a href="https://leetcode.com/SinghSaurabh1602/">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
-  </a> -->
-   <!-- <a href="https://hashnode.com/@Saurabh1602">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
-  </a> -->
 
 <!-- below portfolio link -->
-<p>
-    <strong>
-        Here is the link of my personal portfolio    <a href="https://rajneesh1107.github.io">Click Here</a>
-    </strong>
-</p>
-   <a href="#">  
+   <a href="https://rajneesh1107.github.io/">  
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/portfolio.png" width="35px"  />
   </a>
   
