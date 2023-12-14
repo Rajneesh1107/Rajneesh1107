@@ -44,6 +44,11 @@
   </a> -->
 
 <!-- below portfolio link -->
+<p>
+    <strong>
+        Here is the link of my personal portfolio    <a href="https://rajneesh1107.github.io">Click Here</a>
+    </strong>
+</p>
    <a href="#">  
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/portfolio.png" width="35px"  />
   </a>
